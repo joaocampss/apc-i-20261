@@ -17,7 +17,7 @@ int main(){
   printf("========================\n");
   printf("BOLETIM DE NOTAS\n");
   printf("========================\n");
-  
+
    int codigo_disciplina; 
    float nota_a1; 
    float nota_a2;
